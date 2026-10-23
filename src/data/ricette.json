@@ -376,7 +376,7 @@
           "unit": "q.b."
         },
         {
-          "id": "estratto-di-vaniglia",
+          "id": "vaniglia",
           "name": "Estratto di vaniglia",
           "quantity": null,
           "unit": "q.b."
@@ -459,7 +459,7 @@
             "zucchero-a-velo",
             "sciroppo-di-mais",
             "latte",
-            "estratto-di-vaniglia"
+            "vaniglia"
           ]
         },
         {
