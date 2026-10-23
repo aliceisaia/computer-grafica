@@ -1,0 +1,37 @@
+.page {
+  max-width: 60rem;
+  margin: 0 auto;
+  padding: var(--space-6) var(--space-4);
+}
+.page a {
+  color: var(--color-accent);
+}
+.page h1 {
+  font-family: var(--font-title);
+}
+.ingredient-list {
+  columns: 12rem;
+  text-transform: capitalize;
+}
+
+/* ---------- Pagina di una ricetta ---------- */
+.recipe__top {
+  display: grid;
+  gap: var(--space-4);
+}
+@media (min-width: 40rem) {
+  .recipe__top {
+    grid-template-columns: 20rem minmax(0, 1fr);
+  }
+}
+.recipe__top img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
+  border-radius: var(--radius-card);
+  background: var(--color-surface);
+}
+.recipe__meta {
+  color: var(--color-muted);
+}

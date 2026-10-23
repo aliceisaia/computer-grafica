@@ -1,0 +1,1321 @@
+{
+  "recipes": [
+    {
+      "id": "spongebob",
+      "film": "SpongeBob",
+      "studio": "nickelodeon",
+      "slug": "krabby-patty",
+      "title": "Krabby patty",
+      "description": "Mi raccomando non rivelare a Plankton l'ingrediente segreto!!",
+      "category": "panini",
+      "difficulty": "facile",
+      "taste": [
+        "salato"
+      ],
+      "totalTimeMinutes": 20,
+      "numberPeople": 1,
+      "image": "images/krabby-patty.jpg",
+      "ingredients": [
+        {
+          "id": "panino",
+          "name": "Panino per hamburger con semi di sesamo",
+          "quantity": 1,
+          "unit": "pz"
+        },
+        {
+          "id": "burger-di-carne",
+          "name": "Burger di carne",
+          "quantity": 1,
+          "unit": "pz"
+        },
+        {
+          "id": "uovo",
+          "name": "Uovo",
+          "quantity": 1,
+          "unit": "pz"
+        },
+        {
+          "id": "lattuga",
+          "name": "Lattuga",
+          "quantity": 2,
+          "unit": "pz"
+        },
+        {
+          "id": "ketchup",
+          "name": "Ketchup",
+          "quantity": null,
+          "unit": "q.b."
+        },
+        {
+          "id": "senape",
+          "name": "Senape",
+          "quantity": null,
+          "unit": "q.b."
+        },
+        {
+          "id": "maionese",
+          "name": "Maionese",
+          "quantity": null,
+          "unit": "q.b."
+        },
+        {
+          "id": "formaggio-cheddar",
+          "name": "Formaggio cheddar",
+          "quantity": 1,
+          "unit": "pz"
+        },
+        {
+          "id": "pomodoro",
+          "name": "Pomodoro",
+          "quantity": 2,
+          "unit": "pz"
+        },
+        {
+          "id": "cetriolini",
+          "name": "Cetriolini",
+          "quantity": null,
+          "unit": "q.b."
+        },
+        {
+          "id": "sale",
+          "name": "Sale",
+          "quantity": null,
+          "unit": "q.b."
+        },
+        {
+          "id": "pepe",
+          "name": "Pepe",
+          "quantity": null,
+          "unit": "q.b."
+        }
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Mescola in una tazzina la maionese, il ketchup, la senape, i cetriolini tritati.",
+          "ingredients": [
+            "ketchup",
+            "maionese",
+            "senape"
+          ]
+        },
+        {
+          "id": 2,
+          "text": "Prendi il burger di carne e salalo e pepalo in superficie.",
+          "ingredients": [
+            "burger-di-carne",
+            "sale",
+            "pepe"
+          ]
+        },
+        {
+          "id": 3,
+          "text": "Scalda una padella antiaderente con un velo d'olio.",
+          "ingredients": []
+        },
+        {
+          "id": 4,
+          "text": "Cuoci il burger per 3-4 minuti per lato.",
+          "ingredients": []
+        },
+        {
+          "id": 5,
+          "text": "Appena lo giri, metti subito la fetta di cheddar sopra la carne così si scioglierà per bene.",
+          "ingredients": [
+            "formaggio-cheddar"
+          ]
+        },
+        {
+          "id": 6,
+          "text": "Dividi il panino a metà e tosta la parte interna del panino sulla padella per un minuto.",
+          "ingredients": [
+            "panino"
+          ]
+        },
+        {
+          "id": 7,
+          "text": "Unisci il pane tostato, il burger di carne con il cheddar fuso sopra, la salsa che hai composto all'inizio, delle fette di cetriolino, il pomodoro, la lattuga.",
+          "ingredients": [
+            "panino"
+          ]
+        },
+        {
+          "id": 8,
+          "text": "Adesso hai finalmente concluso il tuo strepitoso Krabby Patty, buon appetito Signor Capitano! ",
+          "ingredients": []
+        }
+      ]
+    },
+    {
+      "id": "ratatouille",
+      "film": "Ratatouille",
+      "studio": "disney",
+      "slug": "ratatouille",
+      "title": "Ratatouille",
+      "description": "Segui i passaggi di questa ricetta come se avessi il topolino Remy sotto il tuo cappello da cucina.",
+      "category": "contorno",
+      "difficulty": "facile",
+      "taste": [
+        "salato",
+        "aromatico"
+      ],
+      "totalTimeMinutes": 60,
+      "numberPeople": 3,
+      "image": "images/ratatouille.jpg",
+      "ingredients": [
+        {
+          "id": "zucchine",
+          "name": "Zucchine verdi",
+          "quantity": 1,
+          "unit": "pz"
+        },
+        {
+          "id": "zucchine",
+          "name": "Zucchine gialle",
+          "quantity": 1,
+          "unit": "pz"
+        },
+        {
+          "id": "melanzana",
+          "name": "Melanzane",
+          "quantity": 1,
+          "unit": "pz"
+        },
+        {
+          "id": "pomodoro",
+          "name": "Pomodori",
+          "quantity": 2,
+          "unit": "pz"
+        },
+        {
+          "id": "cipolla",
+          "name": "Cipolla",
+          "quantity": 1,
+          "unit": "pz"
+        },
+        {
+          "id": "aglio",
+          "name": "Aglio",
+          "quantity": 2,
+          "unit": "pz"
+        },
+        {
+          "id": "passata-di-pomodoro",
+          "name": "Passata di pomodoro",
+          "quantity": 240,
+          "unit": "ml"
+        },
+        {
+          "id": "origano",
+          "name": "Origano",
+          "quantity": null,
+          "unit": "q.b."
+        },
+        {
+          "id": "sale",
+          "name": "Sale",
+          "quantity": null,
+          "unit": "q.b."
+        },
+        {
+          "id": "pepe",
+          "name": "Pepe",
+          "quantity": null,
+          "unit": "q.b."
+        },
+
+        {
+          "id": "olio",
+          "name": "Olio",
+          "quantity": null,
+          "unit": "q.b."
+        }
+
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preriscalda il forno, imposta la temperatura del forno a circa 190°C.",
+          "ingredients": []
+        },
+        {
+          "id": 2,
+          "text": "Prepara la base di salsa: prendi una teglia da forno e versa la tazza di salsa di pomodoro sul fondo, distribuendola in maniera uniforme.",
+          "ingredients": [
+            "passata-di-pomodoro"
+          ]
+        },
+        {
+          "id": 3,
+          "text": "Dopo che hai preparato la base di salsa, cospargi sopra questa la cipolla tritata.",
+          "ingredients": [
+            "cipolla"
+          ]
+        },
+        {
+          "id": 4,
+          "text": "Taglia a fette sottili la zucchina verde, la zucchina gialla, la melanzana e i pomodori.",
+          "ingredients": [
+            "zucchine",
+            "melanzana",
+            "pomodoro"
+          ]
+        },
+        {
+          "id": 5,
+          "text": "Disponi le fette di verdura nella teglia, mettendole in file oppure in cerchi concentrici, alternando le fette delle diverse verdure.",
+          "ingredients": [
+            "zucchine",
+            "melanzana",
+            "pomodoro"
+          ]
+        },
+        {
+          "id": 6,
+          "text": "Aggiungi dell'olio di oliva sopra alle verdure.",
+          "ingredients": [
+            "olio"
+          ]
+        },
+        {
+          "id": 7,
+          "text": "Cospargi sulle verdure l'aglio tritato, l'origano, il sale e il pepe.",
+          "ingredients": [
+            "aglio",
+            "origano",
+            "sale",
+            "pepe"
+          ]
+        },
+        {
+          "id": 8,
+          "text": "Adesso possiamo passare alla prima fase della cottura: copri la teglia con un foglio di carta stagnola e metti in forno a cuocere per 30 minuti.",
+          "ingredients": []
+        },
+        {
+          "id": 9,
+          "text": "Quando sono passati 30 minuti, rimuovi la stagnola e continua la cottura in forno per altri 20 minuti, fino a quando le verdure non risultano tenere.",
+          "ingredients": []
+        },
+        {
+          "id": 10,
+          "text": "Perfetto! Hai finito il tuo piatto! Hai sicuramente lo straordinario talento di Remy in cucina!",
+          "ingredients": []
+        }
+      ]
+    },
+    {
+      "id": "ribelle",
+      "film": "Ribelle",
+      "studio": "disney",
+      "slug": "panini-dolci-glassati",
+      "title": "Panini dolci glassati",
+      "description": "Questi panini dolci perfino i tre fratellini di Merida li ruberebbero prima di cena.",
+      "category": "dolce",
+      "difficulty": "media",
+      "taste": [
+        "dolce",
+        "fruttato"
+      ],
+      "totalTimeMinutes": 150,
+      "numberPeople": 6,
+      "image": "images/panini-dolci-glassati.jpg",
+      "ingredients": [
+        {
+          "id": "farina-00",
+          "name": "Farina 00",
+          "quantity": 500,
+          "unit": "g"
+        },
+        {
+          "id": "zucchero",
+          "name": "Zucchero",
+          "quantity": 60,
+          "unit": "g"
+        },
+        {
+          "id": "latte",
+          "name": "Latte tiepido",
+          "quantity": 260,
+          "unit": "ml"
+        },
+        {
+          "id": "burro",
+          "name": "Burro",
+          "quantity": 80,
+          "unit": "g"
+        },
+        {
+          "id": "uovo",
+          "name": "Uovo",
+          "quantity": 2,
+          "unit": "pz"
+        },
+        {
+          "id": "lievito",
+          "name": "Lievito",
+          "quantity": 7,
+          "unit": "g"
+        },
+        {
+          "id": "zucchero-a-velo",
+          "name": "Zucchero a velo",
+          "quantity": 360,
+          "unit": "g"
+        },
+        {
+          "id": "sciroppo-di-mais",
+          "name": "Sciroppo di mais",
+          "quantity": null,
+          "unit": "q.b."
+        },
+        {
+          "id": "sale",
+          "name": "Sale",
+          "quantity": null,
+          "unit": "q.b."
+        },
+        {
+          "id": "estratto-di-vaniglia",
+          "name": "Estratto di vaniglia",
+          "quantity": null,
+          "unit": "q.b."
+        },
+        {
+          "id": "ciliegie",
+          "name": "Ciliegie",
+          "quantity": null,
+          "unit": "q.b."
+        }
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "In una ciotola, unisci il latte tiepido, 1 cucchiaio di zucchero e il lievito. Lascia riposare 5-10 minuti.",
+          "ingredients": [
+            "latte",
+            "zucchero",
+            "lievito"
+          ]
+        },
+        {
+          "id": 2,
+          "text": "In un'altra ciotola, mescola la farina, il resto dello zucchero e il sale.",
+          "ingredients": [
+            "farina-00",
+            "zucchero",
+            "sale"
+          ]
+        },
+        {
+          "id": 3,
+          "text": "Aggiungi nella ciotola anche l'uovo, il burro, e la miscela iniziale che contiene il lievito.",
+          "ingredients": [
+            "uovo",
+            "burro"
+          ]
+        },
+        {
+          "id": 4,
+          "text": "Impasta a mano per 10 minuti il composto che hai ottenuto, oppure aiutati con una planetaria e impasta per circa 6-8 minuti.",
+          "ingredients": []
+        },
+        {
+          "id": 5,
+          "text": "Metti l'impasto in una ciotola infarinata, copri e lascia lievitare per 1,5 ore.",
+          "ingredients": []
+        },
+        {
+          "id": 6,
+          "text": "Dopo aver fatto riposare l'impasto, lo si divide in 12 porzioni uguali, formando con ogni pezzo una pallina.",
+          "ingredients": []
+        },
+        {
+          "id": 7,
+          "text": "Disponi le palline ben distanziate su una teglia rivestita con carta da forno.",
+          "ingredients": []
+        },
+        {
+          "id": 8,
+          "text": "Copri la teglia con un panno o con della pellicola trasparente e lascia lievitare di nuovo per circa 30 minuti.",
+          "ingredients": []
+        },
+        {
+          "id": 9,
+          "text": "Preriscalda il forno a 190°C. Spennella la superficie dei panini con un uovo sbattuto, per ottenere una doratura lucida.",
+          "ingredients": [
+            "uovo"
+          ]
+        },
+        {
+          "id": 10,
+          "text": "Quando il forno si è riscaldato, infrona per circa 20 minuti, fino a quando i dolci non saranno ben dorati. ",
+          "ingredients": []
+        },
+        {
+          "id": 11,
+          "text": "Quando i panini sono pronti, tirali fuori dal forno, e mentre si raffreddano prepara la glassa: in una ciotola mescola lo zucchero a velo, lo sciroppo di mais, il latte e la vaniglia.",
+          "ingredients": [
+            "zucchero-a-velo",
+            "sciroppo-di-mais",
+            "latte",
+            "estratto-di-vaniglia"
+          ]
+        },
+        {
+          "id": 12,
+          "text": "Dopo che hai finito la glassa, decora la superficie dei panini e riempili di glassa anche al loro interno.",
+          "ingredients": []
+        },
+        {
+          "id": 13,
+          "text": "Aggiungi una ciliegia al centro di ciascun paninetto e gustati il tuo dolcetto!",
+          "ingredients": []
+        }
+      ]
+    },
+    {
+      "id": "luca",
+      "film": "Luca",
+      "studio": "disney",
+      "slug": "trenette-al-pesto",
+      "title": "Trenette al pesto",
+      "description": "Silenzio Bruno!",
+      "category": "primo",
+      "difficulty": "facile",
+      "taste": [
+        "salato"
+      ],
+      "totalTimeMinutes": 40,
+      "numberPeople": 4,
+      "image": "images/trenette-al-pesto.jpg",
+      "ingredients": [
+        {
+          "id": "pasta",
+          "name": "Trenette",
+          "quantity": 500,
+          "unit": "g"
+        },
+        {
+          "id": "fagiolini",
+          "name": "Fagiolini tagliati",
+          "quantity": 100,
+          "unit": "g"
+        },
+        {
+          "id": "patata",
+          "name": "Patate tagliate a cubetti",
+          "quantity": 1,
+          "unit": "pz"
+        },
+        {
+          "id": "basilico",
+          "name": "Basilico genovese",
+          "quantity": 50,
+          "unit": "g"
+        },
+        {
+          "id": "aglio",
+          "name": "Aglio",
+          "quantity": null,
+          "unit": "q.b."
+        },
+        {
+          "id": "sale",
+          "name": "Sale grosso",
+          "quantity": null,
+          "unit": "q.b."
+        },
+        {
+          "id": "formaggio",
+          "name": "Parmigiano grattuggiato",
+          "quantity": null,
+          "unit": "q.b."
+        },
+        {
+          "id": "formaggio",
+          "name": "Pecorino grattuggiato",
+          "quantity": null,
+          "unit": "q.b."
+        },
+        {
+          "id": "pinoli",
+          "name": "Pinoli",
+          "quantity": 30,
+          "unit": "g"
+        },
+        {
+          "id": "olio",
+          "name": "Olio d'oliva",
+          "quantity": 100,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Metti il basilico e l’aglio in un mortaio di marmo con un pizzico di sale grosso. Se non hai mortaio e pestello, va bene anche un frullatore o robot da cucina.",
+          "ingredients": [
+            "basilico",
+            "aglio",
+            "sale"
+          ]
+        },
+        {
+          "id": 2,
+          "text": "Inizia a schiacciare con il pestello e aggiungi l’olio a poco a poco mentre lavori.",
+          "ingredients": [
+            "olio"
+          ]
+        },
+        {
+          "id": 3,
+          "text": "Aggiungi i pinoli, poi il parmigiano grattugiato e il pecorino grattugiato. Contemporaneamente continua ad aggiungere l'olio",
+          "ingredients": [
+            "pinoli",
+            "formaggio",
+            "olio"
+          ]
+        },
+        {
+          "id": 4,
+          "text": "Il segreto per un pesto buonissimo è non cuocere il basilico! Se usi il robot da cucina, non farlo andare troppo a lungo, altrimenti gli ingredienti si scaldano.",
+          "ingredients": []
+        },
+        {
+          "id": 5,
+          "text": "A questo punto puoi mettere a bollire l’acqua per la pasta e quando bolle, aggiungi un po’ di sale grosso nella pentola.",
+          "ingredients": [
+            "sale"
+          ]
+        },
+        {
+          "id": 6,
+          "text": "Butta la pasta, insieme ai fagiolini e alla patata.",
+          "ingredients": [
+            "pasta",
+            "fagiolini",
+            "patata"
+          ]
+        },
+        {
+          "id": 7,
+          "text": "Scola la pasta quando è cotta ma ancora “al dente”, non troppo molle e conserva un po’ di acqua di cottura per la salsa..",
+          "ingredients": [
+            "pasta"
+          ]
+        },
+        {
+          "id": 8,
+          "text": "Metti il pesto sul fondo di una ciotola, con la quale poi servirai la pasta.",
+          "ingredients": []
+        },
+        {
+          "id": 9,
+          "text": "Aggiungi un paio di cucchiai di acqua di cottura al pesto.",
+          "ingredients": []
+        },
+        {
+          "id": 10,
+          "text": "Poi aggiungi la pasta (con fagiolini e patata) nella ciotola con il pesto. Mescola bene!",
+          "ingredients": [
+            "pasta"
+          ]
+        },
+        {
+          "id": 11,
+          "text": "Poi aggiungi la pasta (con fagiolini e patata) nella ciotola con il pesto. Mescola bene!",
+          "ingredients": [
+            "pasta"
+          ]
+        },
+        {
+          "id": 12,
+          "text": "Hai finito la tua pasta! Ora goditela insieme ai tuoi amici!",
+          "ingredients": [
+            "pasta"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "biancaneve",
+      "film": "Biancaneve e i sette nani",
+      "studio": "disney",
+      "slug": "mela-avvelenata",
+      "title": "Mela avvelenata",
+      "description": "Con un solo morso finisci sotto un incantesimo, una magia fatta dal caramello!",
+      "category": "dolce",
+      "difficulty": "media",
+      "taste": [
+        "dolce",
+        "caramellato"
+      ],
+      "totalTimeMinutes": 90,
+      "numberPeople": 4,
+      "image": "images/mela-avvelenata.jpg",
+      "ingredients": [
+        {
+          "id": "mela",
+          "name": "Mela",
+          "quantity": 4,
+          "unit": "pz"
+        },
+        {
+          "id": "zucchero",
+          "name": "Zucchero",
+          "quantity": 200,
+          "unit": "g"
+        },
+        {
+          "id": "acqua",
+          "name": "Acqua",
+          "quantity": 100,
+          "unit": "g"
+        },
+        {
+          "id": "glucosio",
+          "name": "Glucosio",
+          "quantity": 20,
+          "unit": "g"
+        },
+        {
+          "id": "cannella",
+          "name": "Cannella in polvere",
+          "quantity": 2.5,
+          "unit": "ml"
+        },
+        {
+          "id": "colorante-alimentare",
+          "name": "Colorante alimentare rosso",
+          "quantity": null,
+          "unit": "q.b."
+        }
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Per preparare le mele stregate caramellate, per prima cosa lavale e asciugale bene, perché dovranno essere completamente asciutte.",
+          "ingredients": [
+            "mela"
+          ]
+        },
+        {
+          "id": 2,
+          "text": "Rimuovi il picciolo interno e inserisci al suo posto un bastoncino di legno (come quello per gli spiedini).",
+          "ingredients": []
+        },
+        {
+          "id": 3,
+          "text": "In un pentolino dai bordi alti versa l'acqua, zucchero e glucosio.",
+          "ingredients": [
+            "acqua",
+            "zucchero",
+            "glucosio"
+          ]
+        },
+        {
+          "id": 4,
+          "text": "Fai bollire il tutto e fallo cuocere un paio di minuti senza mescolare, a fuoco basso.",
+          "ingredients": []
+        },
+        {
+          "id": 5,
+          "text": "Quando lo sciroppo avrà raggiunto la temperatura di 100°C, che puoi misurare con il termometro da cucina, unisci la cannella in polvere.",
+          "ingredients": [
+            "cannella"
+          ]
+        },
+        {
+          "id": 6,
+          "text": "Versa il anche il colorante alimentare rosso, un po' alla volta, fino a quando non raggiungi il colore che desideri.",
+          "ingredients": [
+            "colorante-alimentare"
+          ]
+        },
+        {
+          "id": 7,
+          "text": "Mescola bene in modo da non formare grumi.",
+          "ingredients": []
+        },
+        {
+          "id": 8,
+          "text": "Continua poi a far bollire lo sciroppo fino a quando non raggiunge la temperatura di 150°C, ci vorranno circa 15 minuti.",
+          "ingredients": []
+        },
+        {
+          "id": 9,
+          "text": "Dopo, spegni il fuoco e lascia riposare per pochi secondi.",
+          "ingredients": []
+        },
+        {
+          "id": 10,
+          "text": "A questo punto prendi una mela alla volta e immergi le mele nello sciroppo, facendole roteare velocemente per ricoprirle interamente.",
+          "ingredients": [
+            "mela"
+          ]
+        },
+        {
+          "id": 11,
+          "text": "Lascia colare il liquido in eccesso e appoggia le mele che hai immerso nello sciroppo su un vassoio rivestito con della carta da forno.",
+          "ingredients": []
+        },
+        {
+          "id": 12,
+          "text": "Lascia raffreddare le mele fino a quando il guscio si sarà solidificato. Ci vorranno circa 30 minuti.",
+          "ingredients": []
+        },
+        {
+          "id": 13,
+          "text": "Dopo averle lasciate raffreddare le tue mele sono pronte per essere addentate!",
+          "ingredients": []
+        }
+      ]
+    },
+    {
+      "id": "rapunzel",
+      "film": "Rapunzel",
+      "studio": "disney",
+      "slug": "biscotti-cookies",
+      "title": "Biscotti cookies",
+      "description": "La vera magia di Rapunzel.",
+      "category": "dolce",
+      "difficulty": "facile",
+      "taste": [
+        "dolce"
+      ],
+      "totalTimeMinutes": 40,
+      "numberPeople": 4,
+      "image": "images/biscotti-cookies.jpg",
+      "ingredients": [
+        {
+          "id": "farina-00",
+          "name": "Farina 00",
+          "quantity": 250,
+          "unit": "g"
+        },
+        {
+          "id": "bicarbonato",
+          "name": "Bicarbonato",
+          "quantity": null,
+          "unit": "q.b"
+        },
+        {
+          "id": "uovo",
+          "name": "Uovo",
+          "quantity": 1,
+          "unit": "pz"
+        },
+        {
+          "id": "zucchero",
+          "name": "Zucchero di canna",
+          "quantity": 125,
+          "unit": "g"
+        },
+        {
+          "id": "zucchero",
+          "name": "Zucchero semolato",
+          "quantity": 125,
+          "unit": "g"
+        },
+        {
+          "id": "olio",
+          "name": "Olio di semi",
+          "quantity": 120,
+          "unit": "g"
+        },
+        {
+          "id": "nocciole",
+          "name": "Nocciole",
+          "quantity": 60,
+          "unit": "g"
+        },
+        {
+          "id": "cioccolato",
+          "name": "Gocce di cioccolato",
+          "quantity": 150,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Per cominciare, setaccia la farina e versala in una ciotola capiente.",
+          "ingredients": [
+            "farina-00"
+          ]
+        },
+        {
+          "id": 2,
+          "text": "Fai la stessa cosa con il bicarbonato.",
+          "ingredients": [
+            "bicarbonato"
+          ]
+        },
+        {
+          "id": 3,
+          "text": "Aggiungi alla ciotola l'essenza di vaniglia, lo zucchero di canna e quello semolato.",
+          "ingredients": [
+            "estratto-di-vaniglia",
+            "zucchero"
+          ]
+        },
+        {
+          "id": 4,
+          "text": "Versa le nocciole nel recipiente di un mixer e tritale.",
+          "ingredients": [
+            "nocciole"
+          ]
+        },
+        {
+          "id": 5,
+          "text": "Mescola il composto nella ciotola e poi unisci piano piano l'olio di semi, e dopo l'uovo.",
+          "ingredients": [
+            "olio",
+            "uovo"
+          ]
+        },
+        {
+          "id": 6,
+          "text": "Impasta con attenzione per amalgamare bene tutti gli ingredienti.",
+          "ingredients": []
+        },
+        {
+          "id": 7,
+          "text": "Adesso, metti dentro l'impasto le gocce di cioccolato e mescola bene.",
+          "ingredients": [
+            "cioccolato"
+          ]
+        },
+        {
+          "id": 8,
+          "text": "Prendi una teglia rivestia con carta da forno e con un cucchiaio disponete un po' di impasto sulla teglia, per creare la forma circolare di un biscotto.",
+          "ingredients": []
+        },
+        {
+          "id": 9,
+          "text": "Una volta composti tutti i cookies, fate cuocere in forno preriscaldato a 170°C per 20 minuti.",
+          "ingredients": []
+        },
+        {
+          "id": 10,
+          "text": "Quando sono pronti puoi finalmente fare merenda e sarà una vera e propria magia!",
+          "ingredients": []
+        }
+      ]
+    },
+    {
+      "id": "kung-fu-panda",
+      "film": "Kung Fu Panda",
+      "studio": "dreamworks",
+      "slug": "baozi",
+      "title": "Baozi (Ravioli al vapore)",
+      "description": "Sei pronto a farti una scorpacciata insieme a Po?",
+      "category": "primi",
+      "difficulty": "difficile",
+      "taste": [
+        "salato",
+        "speziato"
+      ],
+      "totalTimeMinutes": 120,
+      "numberPeople": 4,
+      "image": "images/baozi.jpg",
+      "ingredients": [
+        {
+          "id": "farina-00",
+          "name": "Farina 00",
+          "quantity": 330,
+          "unit": "g"
+        },
+        {
+          "id": "acqua",
+          "name": "Acqua tiepida",
+          "quantity": 150,
+          "unit": "g"
+        },
+        {
+          "id": "zucchero",
+          "name": "Zucchero",
+          "quantity": 80,
+          "unit": "g."
+        },
+        {
+          "id": "lievito-di-birra-secco",
+          "name": "Lievito di birra secco",
+          "quantity": 6,
+          "unit": "g"
+        },
+        {
+          "id": "macinato-di-maiale",
+          "name": "Macinato di maiale",
+          "quantity": 250,
+          "unit": "g"
+        },
+        {
+          "id": "cavolo-cappuccio",
+          "name": "Cavolo cappuccio",
+          "quantity": 100,
+          "unit": "g"
+        },
+        {
+          "id": "cipollotto",
+          "name": "Cipollotto",
+          "quantity": 1,
+          "unit": "pz"
+        },
+        {
+          "id": "zenzero",
+          "name": "Zenzero grattugiato",
+          "quantity": 10,
+          "unit": "g"
+        },
+        {
+          "id": "salsa-di-soia",
+          "name": "Salsa di soia",
+          "quantity": 20,
+          "unit": "g"
+        },
+        {
+          "id": "zucchero",
+          "name": "Zucchero",
+          "quantity": 15,
+          "unit": "g"
+        },
+        {
+          "id": "olio-di-sesamo",
+          "name": "Olio di sesamo",
+          "quantity": 10,
+          "unit": "g"
+        },
+        {
+          "id": "sale",
+          "name": "Sale",
+          "quantity": null,
+          "unit": "q.b."
+        },
+        {
+          "id": "pepe",
+          "name": "Pepe",
+          "quantity": null,
+          "unit": "q.b."
+        }
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Sciogli il lievito e lo zucchero nell’acqua tiepida.",
+          "ingredients": [
+            "lievito-di-birra-secco",
+            "zucchero",
+            "acqua"
+          ]
+        },
+        {
+          "id": 2,
+          "text": "Metti la farina in una ciotola, aggiungi il liquido poco alla volta e impasta fino ad ottenere un panetto liscio ed elastico.",
+          "ingredients": [
+            "farina"
+          ]
+        },
+        {
+          "id": 3,
+          "text": "Copri l’impasto con un panno umido in una ciotola e lascia lievitare per circa 40 minuti (fino al suo raddoppio).",
+          "ingredients": []
+        },
+        {
+          "id": 4,
+          "text": "Trita finemente il cavolo cappuccio e il cipollotto.",
+          "ingredients": [
+            "cavolo-cappuccio",
+            "cipollotto"
+          ]
+        },
+        {
+          "id": 5,
+          "text": "In una ciotola, unisci e mescola con cura la carne macinata, le verdure tritate, lo zenzero grattugiato, la salsa di soia, lo zucchero, l’olio di sesamo, il sale e il pepe.",
+          "ingredients": [
+            "macinato-di-maiale",
+            "zenzero",
+            "salsa-di-soia",
+            "zucchero",
+            "olio-di-sesamo",
+            "sale",
+            "pepe"
+          ]
+        },
+        {
+          "id": 6,
+          "text": "Riprendi l’impasto, sgonfialo e dividilo circa in 12 palline uguali. Stendi ciascun pezzetto in un disco, lasciando i bordi più sottili del centro.",
+          "ingredients": []
+        },
+        {
+          "id": 7,
+          "text": "Metti un cucchiaio di ripieno al centro e chiudi i bordi pizzicando la pasta verso l’alto, formando il tipico fagottino. Lascia riposare i baozi già formati per 30-40 minuti su dei quadrati di carta da forno.",
+          "ingredients": []
+        },
+        {
+          "id": 8,
+          "text": "Cuoci i baozi nella vaporiera (oppure cuoci al vapore con ciò che hai a disposizione) per circa 15 minuti senza aprire il coperchio durante la cottura. Spegni il fuoco e lascia riposare per 2 minuti con il coperchio socchiuso. Poi potrai servire i tuoi baozi ben caldi.",
+          "ingredients": []
+        }
+      ]
+    },
+    {
+      "id": "doraemon",
+      "film": "Doraemon",
+      "studio": "altri",
+      "slug": "dorayaki",
+      "title": "Dorayaki",
+      "description": "Non servono chiusky per questa ricetta, ma attenzione ad un gatto affamato che ne va matto!",
+      "category": "dolci",
+      "difficulty": "facile",
+      "taste": [
+        "dolce"
+      ],
+      "totalTimeMinutes": 50,
+      "numberPeople": 4,
+      "image": "images/dorayaki.jpg",
+      "ingredients": [
+        {
+          "id": "farina-00",
+          "name": "Farina 00",
+          "quantity": 100,
+          "unit": "g"
+        },
+        {
+          "id": "acqua",
+          "name": "Acqua",
+          "quantity": 40,
+          "unit": "g"
+        },
+        {
+          "id": "zucchero",
+          "name": "Zucchero",
+          "quantity": 60,
+          "unit": "g"
+        },
+        {
+          "id": "uova",
+          "name": "Uova",
+          "quantity": 2,
+          "unit": "pz"
+        },
+        {
+          "id": "miele",
+          "name": "Miele",
+          "quantity": 10,
+          "unit": "g"
+        },
+        {
+          "id": "lievito-per-dolci",
+          "name": "Lievito per dolci",
+          "quantity": 3,
+          "unit": "g"
+        },
+        {
+          "id": "anko",
+          "name": "Anko (oppure farcitura a scelta)",
+          "quantity": null,
+          "unit": "q.b."
+        },
+        {
+          "id": "olio-di-semi",
+          "name": "Olio di semi",
+          "quantity": null,
+          "unit": "q.b."
+        }
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "In una ciotola sbatti con una frusta le uova con lo zucchero e il miele fino ad avere un composto chiaro e spumoso.",
+          "ingredients": [
+            "uova",
+            "zucchero",
+            "miele"
+          ]
+        },
+        {
+          "id": 2,
+          "text": "Aggiungi l’acqua e mescola.",
+          "ingredients": [
+            "acqua"
+          ]
+        },
+        {
+          "id": 3,
+          "text": "Setaccia la farina insieme al lievito e incorporali poco alla volta al composto, mescolando bene per evitare grumi. Lascia riposare la pastella per circa 20 minuti.",
+          "ingredients": [
+            "farina",
+            "lievito"
+          ]
+        },
+        {
+          "id": 4,
+          "text": "Scalda una padella antiaderente (o una crepiera) e passaci un tovagliolo unto con l’olio di semi.",
+          "ingredients": [
+            "olio-di-semi"
+          ]
+        },
+        {
+          "id": 5,
+          "text": "Versa nella padella un mestolino di pastella per formare un dischetto.",
+          "ingredients": []
+        },
+        {
+          "id": 6,
+          "text": "Quando in superficie compaiono delle bollicine (dopo circa 2 minuti), gira il dischetto e cuoci l’altro lato per 1 minuto. Ripeti fino ad ottenere 8 dischetti e quindi fino ad esaurimento la pastella.",
+          "ingredients": []
+        },
+        {
+          "id": 7,
+          "text": "Prendi un dischetto, spalma al centro la farcitura scelta e copri con un secondo dischetto. Premi leggermente i bordi per chiuderli e i tuoi dorayaki sono pronti per essere mangiati.",
+          "ingredients": []
+        }
+      ]
+    },
+
+
+     {
+     "id": "la-bella-addormentata",
+     "film": "La bella addormentata",
+     "studio": "disney",
+     "slug": "torta-delle-fate-madrine",
+     "title": "Torta delle fate madrine",
+     "description": "Per una torta magica, ma senza dover usare la magia ;) ",
+     "category": "dolci",
+     "difficulty": "difficile",
+     "taste": ["dolce"],
+     "totalTimeMinutes": 120,
+     "numberPeople": 8,
+     "image": "images/tortafate.jpg",
+     "ingredients": [
+       { "id": "farina-00", "name": "Farina 00", "quantity": 180, "unit": "g" },
+       { "id": "zucchero", "name": "Zucchero", "quantity": 180, "unit": "g" },
+       { "id": "uova", "name": "Uova", "quantity": 6, "unit": "pz" },
+       { "id": "lievito-per-dolci", "name": "Lievito per dolci", "quantity": 35, "unit": "g" },
+       { "id": "panna", "name": "Panna da montare (fredda)", "quantity": 600, "unit": "ml" },
+       { "id": "mascarpone", "name": "Mascarpone (freddo)", "quantity": 250, "unit": "g" },
+       { "id": "zucchero-a-velo", "name": "Zucchero a velo", "quantity": 80, "unit": "g" },
+       { "id": "colorante", "name": "Coloarante alimentare blu (gel o polvere)", "quantity": null, "unit": "q.b." },
+       { "id": "mirtilli", "name": "Mirtilli freschi", "quantity": null, "unit": "q.b." }
+     ],
+     "steps": [
+       {
+         "id": 1,
+         "text": "In una ciotola monta le uova intere con lo zucchero per almeno 15 minuti. Il composto deve diventare chiaro, gonfio e triplicare il suo volume.",
+         "ingredients": ["uova", "zucchero"]
+       },
+       {
+         "id": 2,
+         "text": "Incorpora la farina e il lievito settacciandoli un po' alla volta, mescolando delicatamente dal basso verso l'alto con una spatola per non smontare le uova.",
+         "ingredients": ["farina-00", "lievito-per-dolci"]
+       },
+       {
+         "id": 3,
+         "text": "Per creare i diversi strati, l'ideale è dividere l'impasto in 3/4 di dimensioni leggermente decrescenti. In alternativa usa una teglia alta da 20-22cm e poi tagliala in dischi.",
+         "ingredients": []
+       },
+       {
+         "id": 4,
+         "text": "Preriscalda il forno, se statico a 180°C, se ventilato a 160°C. Inforna per circa 35 minuti e poi lascia raffreddare completamente.",
+         "ingredients": []
+       },
+       {
+         "id": 5,
+         "text": "Mentre la torta è in forno, monta il mascarpone freddo con lo zucchero a velo e la panna ben fredda, fino ad ottenere una crema liscia e densa.",
+         "ingredients": ["mascarpone", "zucchero-a-velo", "panna"]
+       },
+       {
+         "id": 6,
+         "text": "Dividi la crema in tre ciotole. La prima per l'interno: aggiungi i mirtilli schiacciati con una forchetta per creare una farcitura violacea.",
+         "ingredients": ["mirtilli"]
+       },
+       {
+         "id": 7,
+         "text": "La seconda per l'esterno: lasciala così bianca. La terza per la decorazione: aggiungi il colorante alimentare blu fino ad ottenere un azzurro cielo.",
+         "ingredients": ["colorante"]
+       },
+       {
+         "id": 8,
+         "text": "Posiziona su un piatto il disco più grande e farciscilo con la crema con i mirtilli. Sovrapponi il secondo disco leggermente sfalsato per creare l'effetto originale.",
+         "ingredients": []
+       },
+       {
+         "id": 9,
+         "text": "Per evitare che crolli, infila verticalmente uno o due spiedini di legno al centro per fare da perno. Prosegui con la farcitura e i dischi sfalsati.",
+         "ingredients": []
+       },
+       {
+         "id": 10,
+         "text": "Rivesti interamente l'esterno della torta con la crema bianca semplice.",
+         "ingredients": []
+       },
+       {
+         "id": 11,
+         "text": "Ora inserisci la crema azzurra in una sac-à-poche (o usa un cucchiaio) e falla colare sul bordo superiore di ogni strato. Non preoccuparti della precisione, proprio come le fate.",
+         "ingredients": []
+       },
+       {
+         "id": 12,
+         "text": "Decora la superfiice superiore come preferisici: candeline, mirtilli,...",
+         "ingredients": []
+       }
+     ]
+   },
+
+
+   {
+     "id": "aristogatti",
+     "film": "Aristogatti",
+     "studio": "disney",
+     "slug": "crema-di-crema-alla-edgar",
+     "title": "Crema di crema alla Edgar",
+     "description": "Un capolavoro di dolcezza così buono da far svenire persino dei gatti di gran classe (e no, questa volta senza l'ingrediente segreto di Edgar!). Cremosa, profumata e irresistibile, è la coccola perfetta da gustare tiepida o fredda. Il consiglio del topo Groviera: Da gustare rigorosamente inzuppando un bel biscotto... perché 'chi non inzuppa non si gode la vita!'.",
+     "category": "dolce",
+     "difficulty": "facile",
+     "taste": ["dolce", "cremoso"],
+     "totalTimeMinutes": 15,
+     "numberPeople": 2,
+     "image": "images/cremadicrema.jpg",
+     "ingredients": [
+       { "id": "latte", "name": "Latte intero", "quantity": 250, "unit": "g" },
+       { "id": "panna", "name": "Panna fresca", "quantity": 250, "unit": "g" },
+       { "id": "uova", "name": "Tuorli d'uovo", "quantity": 3, "unit": "pz" },
+       { "id": "zucchero", "name": "Zucchero", "quantity": 100, "unit": "g" },
+       { "id": "cannella", "name": "Cannella", "quantity": null, "unit": "q.b." },
+       { "id": "noce-moscata", "name": "Noce moscata", "quantity": null, "unit": "q.b." },
+       { "id": "vaniglia", "name": "Estratto di vaniglia", "quantity": null, "unit": "q.b." }
+     ],
+     "steps": [
+       {
+         "id": 1,
+         "text": "In una ciotola unisci zucchero e tuorli d'uovo.",
+         "ingredients": ["zucchero", "uova"]
+       },
+       {
+         "id": 2,
+         "text": "In un pentolino scalda latte, panna fresca, un pizzico di cannella, noce moscata e vaniglia. Porta a bollore.",
+         "ingredients": ["latte", "panna", "cannella", "noce-moscata", "vaniglia"]
+       },
+       {
+         "id": 3,
+         "text": "Incorpora i tuorli un pò alla volta mescolando con una frusta per bene, stando attenti a non far cuocere l'uovo.",
+         "ingredients": []
+       },
+       {
+         "id": 4,
+         "text": "Cuoci il tutto per 10 minuti fino ad ottenere una crema vellutata. Successivamente versa in una ciotola e gusta 'la crème de la crème'.",
+         "ingredients": []
+       }
+     ]
+   }
+
+
+
+  ]
+  }
+
+
+
+    
