@@ -1,11 +1,11 @@
 /* Design token: i componenti usano solo var(--...), mai valori "grezzi" */
 :root {
-  --color-bg: #fff8ee;
-  --color-surface: #ffffff;
+  --color-bg: #f8f1d3;
+  --color-surface: #ffffffe8;
   --color-text: #1f1b16;
   --color-muted: #686b57;
   --color-border: #1f1b16;
-  --color-accent: #318af1; /* il viola dei link attivi nello schizzo */
+  --color-accent: #5851d9e5; /* il viola dei link attivi nello schizzo */
 
   --font-body: system-ui, -apple-system, "Segoe UI", sans-serif;
   --font-title: "Trebuchet MS", "Arial Black", sans-serif;
