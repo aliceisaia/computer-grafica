@@ -13,7 +13,7 @@
 }
 .site-header__title {
   margin: 0;
-  font-family: var(--font-title);
+  font-family: Wicked Mouse;
   font-size: clamp(1.5rem, 5vw, 2.5rem);
   font-weight: 900;
   text-transform: uppercase;
@@ -104,6 +104,20 @@ input[type="search"] {
   text-transform: uppercase;
   border-bottom: 2px solid var(--color-border);
 }
+
+.studio-row--disney h2 {
+  font-family: Waltograph UI;
+}
+.studio-row--dreamworks h2 {
+  font-family: BodoniXT;
+}
+.studio-row--nickelodeon h2 {
+  font-family: Mignone;
+}
+.studio-row--altri h2 {
+  font-family: Wicked Mouse;
+}
+
 .studio-row__list {
   display: flex;
   gap: var(--space-4);

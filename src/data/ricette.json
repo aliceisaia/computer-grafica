@@ -96,7 +96,8 @@
           "ingredients": [
             "ketchup",
             "maionese",
-            "senape"
+            "senape",
+            "cetriolini"
           ]
         },
         {
@@ -376,7 +377,7 @@
           "unit": "q.b."
         },
         {
-          "id": "estratto-di-vaniglia",
+          "id": "vaniglia",
           "name": "Estratto di vaniglia",
           "quantity": null,
           "unit": "q.b."
@@ -459,7 +460,7 @@
             "zucchero-a-velo",
             "sciroppo-di-mais",
             "latte",
-            "estratto-di-vaniglia"
+            "vaniglia"
           ]
         },
         {
@@ -1309,12 +1310,77 @@
          "ingredients": []
        }
      ]
-   }
+   },
 
+   
 
+    {
+    "id": "lilli-e-il-vagabondo",
+    "film": "Lilli e il vagabondo",
+    "studio": "disney",
+    "slug": "spaghetti-con-le-polpette",
+    "title": "Spaghetti con le polpette",
+    "description": "Se vuoi baciare il tuo cane (dice matteo)",
+    "category": "primi",
+    "difficulty": "facile",
+    "taste": ["salato"],
+    "totalTimeMinutes": 50,
+    "numberPeople": 2,
+    "image": "images/dorayaki.jpg",
+    "ingredients": [
+      { "id": "spaghetti", "name": "Spaghetti", "quantity": 160, "unit": "g" },
+      { "id": "macinato-di-maiale", "name": "Macinato di maiale", "quantity": 300, "unit": "g" },
+      { "id": "uova", "name": "Uova", "quantity": 1, "unit": "pz" },
+      { "id": "pangrattato", "name": "Pangrattato", "quantity": 35, "unit": "g" },
+      { "id": "parmigiano", "name": "Parmigiano", "quantity": 30, "unit": "g" },
+      { "id": "pane", "name": "Pane raffermo bagnato e ben strizzato", "quantity": 2, "unit": "pz" },
+      { "id": "passata-di-pomodoro", "name": "Passata di pomodoro", "quantity": 500, "unit": "ml" },
+      { "id": "cipolla", "name": "Cipolla", "quantity": 50, "unit": "g" },
+      { "id": "olio-di-oliva", "name": "Olio d’oliva", "quantity": null, "unit": "q.b." },
+      { "id": "prezzemolo", "name": "Prezzemolo tritato", "quantity": null, "unit": "q.b." },
+      { "id": "sale", "name": "Sale", "quantity": null, "unit": "q.b." },
+      { "id": "pepe", "name": "Pepe", "quantity": null, "unit": "q.b." }
+    ],
+    "steps": [
+      {
+        "id": 1,
+        "text": "In una ciotola capiente unisci la carne macinata, l'uovo, il pane strizzato, il parmigiano grattugiato, il pangrattato, il prezzemolo, un pizzico di sale e di pepe.",
+        "ingredients": ["macinato-di-maiale", "uova", "pane", "parmigiano", "pangrattato", "prezzemolo", "sale", "pepe"]
+      },
+      {
+        "id": 2,
+        "text": "Impasta bene con le mani fino ad avere un composto omogeneo e ricava delle polpettine della grandezza di una noce.",
+        "ingredients": []
+      },
+      {
+        "id": 3,
+        "text": "In una padella fai soffriggere la cipolla con un filo d’olio. Aggiungi la passata di pomodoro, un pizzico di sale e lascia cuocere per qualche minuto.",
+        "ingredients": ["olio-di-oliva", "passata-di-pomodoro", "sale"]
+      },
+      {
+        "id": 4,
+        "text": "Delicatamente immergi le polpette nel sugo di pomodoro. Copri e lascia cuocere a fuoco lento per circa 15 minuti girandole con delicatezza a metà cottura.",
+        "ingredients": []
+      },
+      {
+        "id": 5,
+        "text": "Nel frattempo porta a bollore una pentola d’acqua salata, cuoci gli spaghetti e scolali al dente.",
+        "ingredients": ["spaghetti"]
+      },
+      {
+        "id": 6,
+        "text": "Fai saltare gli spaghetti nella pentola con il sugo per 1 minuto. Impiatta gli spaghetti e disponi sopra le polpette per ricreare il piatto originale.",
+        "ingredients": []
+      }
 
+     ]
+    }
   ]
-  }
+}
+
+
+
+
 
 
 

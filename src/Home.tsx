@@ -53,10 +53,10 @@ function RecipeCard({ recipe }: { recipe: Recipe }) {
 }
 
 /* ---------- Una riga per studio (Disney, DreamWorks, ...) ---------- */
-function StudioRow({ label, items }: { label: string; items: Recipe[] }) {
+function StudioRow({ id, label, items }: { id: string; label: string; items: Recipe[] }) {
   const headingId = `studio-${label}`;
   return (
-    <section aria-labelledby={headingId} className="studio-row">
+      <section aria-labelledby={headingId} className={`studio-row studio-row--${id}`}>
       <h2 id={headingId}>{label}</h2>
       <ul className="studio-row__list">
         {items.map((recipe) => (
@@ -199,7 +199,7 @@ function Home() {
           {studios.map((studio) => {
             const items = visible.filter((r) => r.studio === studio.id);
             return items.length > 0 ? (
-              <StudioRow key={studio.id} label={studio.label} items={items} />
+              <StudioRow key={studio.id} id={studio.id} label={studio.label} items={items} />
             ) : null;
           })}
         </div>
