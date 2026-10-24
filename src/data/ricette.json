@@ -1326,7 +1326,7 @@
     "taste": ["salato"],
     "totalTimeMinutes": 50,
     "numberPeople": 2,
-    "image": "images/dorayaki.jpg",
+    "image": "images/spaghetti-con-polpette.jpg",
     "ingredients": [
       { "id": "spaghetti", "name": "Spaghetti", "quantity": 160, "unit": "g" },
       { "id": "macinato-di-maiale", "name": "Macinato di maiale", "quantity": 300, "unit": "g" },
